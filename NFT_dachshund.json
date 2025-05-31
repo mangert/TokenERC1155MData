@@ -1,0 +1,19 @@
+{
+  "name": "Dachshund",
+  "description": "A loyal and energetic black and tan dachshund.",
+  "image": "https://example.com/images/dachshund.png",
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Dachshund"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black and Tan"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Non-Fungible"
+    }
+  ]
+}
