@@ -1,0 +1,10 @@
+{
+  "name": "Diamond",
+  "description": "1 carat diamond",
+  "image": "https://yourdomain.github.io/assets/gold-coin.png",
+  "decimals": 0,
+  "properties": {
+    "type": "currency",
+    "value": 1
+  }
+}
