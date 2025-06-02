@@ -1,7 +1,7 @@
 {
   "name": "Diamond",
   "description": "1 carat diamond",
-  "image": "https://yourdomain.github.io/assets/gold-coin.png",
+  "image": "https://raw.githubusercontent.com/mangert/TokenERC1155MData/main/images/Diamond.png",
   "decimals": 0,
   "properties": {
     "type": "currency",
