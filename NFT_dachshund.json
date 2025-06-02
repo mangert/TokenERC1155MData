@@ -1,7 +1,7 @@
 {
   "name": "Dachshund",
   "description": "A loyal and energetic black and tan dachshund.",
-  "image": "https://example.com/images/dachshund.png",
+  "image": "https://raw.githubusercontent.com/mangert/TokenERC1155MData/main/images/Dachshund.png",
   "attributes": [
     {
       "trait_type": "Breed",
